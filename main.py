@@ -11,6 +11,7 @@ write_config(4, 3)
 
 from control import Control
 control = Control()
+print("reading file...")
 control.readfile("words.txt")
 print(control.get_info())
 print(control.search("quadra"))
