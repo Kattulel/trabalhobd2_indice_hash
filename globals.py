@@ -1,2 +1,2 @@
-bucket_size=3
-page_size=4
+bucket_size=4
+page_size=3
